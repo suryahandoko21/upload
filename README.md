@@ -10,6 +10,7 @@
     - port = 3311
 - execute query seed table roles in directori db_seed (file seed_roles.sql)    
 
+- postman : https://api.postman.com/collections/4131954-beb093c1-3266-434b-8c1c-31f9cbe7b687?access_key=PMAT-01HKF6DKNNPZEHQ9JQM0PF42T7
 
 ====== flow application ===================================================
 - sign up   =[POST] http://localhost:7071/api/auth/signup
