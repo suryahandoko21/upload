@@ -1,4 +1,3 @@
-- upload data csv/xls and send to kafka 
 ========== run application  =============
 - open terminal and go to root directori
 - run docker-compose up -d
